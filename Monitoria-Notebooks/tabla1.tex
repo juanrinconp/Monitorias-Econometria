@@ -1,0 +1,26 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{@{\extracolsep{2pt}}l*{2}{c}@{}}
+\hline\hline
+& \multicolumn{2}{c}{math4} \\
+\cline{2-3}
+ & Reg. Simple & Reg. Multiple \\
+\hline
+pctsgle & -0.833\sym{***} & -0.200 \\
+ & (0.071) & (0.159) \\
+free &  & -0.396\sym{***} \\
+ &  & (0.070) \\
+logmedinc &  & 3.560 \\
+ &  & (5.042) \\
+Constante & 96.770\sym{***} & 51.724 \\
+ & (1.597) & (58.478) \\
+
+\hline
+Obs & 229 & 229 \\
+R\sym{2} & 0.380 & 0.460 \\
+F-stat & 138.853 & 63.848 \\
+\hline\hline
+\multicolumn{3}{l}{\footnotesize *$p < 0.1$ , ** $p < 0.05$ , *** $p < 0.01$}\vspace{-.25em} \\
+\multicolumn{3}{l}{\footnotesize Errores estándar en paréntesis.}
+\end{tabular}
+}
