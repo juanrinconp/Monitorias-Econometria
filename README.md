@@ -1,6 +1,8 @@
 # Monitorias-Econometria 
 
-Este repositorio contiene diferentes ejercicios y explicaciones introductorios al uso de Python para el análisis de datos. Los documentos estan guardados en:
+Este repositorio contiene diferentes ejercicios y explicaciones introductorios al uso de Python para el análisis de datos. Para acceder a los documentos --> Clic "Monitoria-Notebooks" --> "Índice"
+
+En este notebook encontrarán un enlace a los siguientes documentos:
 
 1. Introducción a Python
 2. Análisis de Regresión Multiple
